@@ -1,0 +1,4 @@
+Bundle-Name: dartsass
+Bundle-SymbolicName: dartsass
+Bundle-Version: 1.0.0
+Export-Package: dartsass.constants
